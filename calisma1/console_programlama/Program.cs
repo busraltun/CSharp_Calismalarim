@@ -6,7 +6,7 @@ namespace console_programlama
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Selam, adın nedir ?");
+            Console.WriteLine("Selam, merak ettim adın nedir ?");
             string name1 = Console.ReadLine();
 
             Console.WriteLine("Benim adım " + name1 + " " +"senin adın ne ?");
