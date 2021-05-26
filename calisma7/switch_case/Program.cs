@@ -75,7 +75,7 @@ Default ifadesi zorunlu değildir. Yazılmasa da olur.
               break;
               
               default :
-                      Console.WriteLine("İşler yoluna gitmedi ve sana hangi ayda olduğunu söyleyemedim");
+                      Console.WriteLine("İşler yoluna gitmedi ve sana hangi ayda olduğunu söyleyemedim :(");
               break;
 
           }
