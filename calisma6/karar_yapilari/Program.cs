@@ -12,7 +12,7 @@ namespace karar_yapilari
             int time = DateTime.Now.Hour;
 
             if(time >= 6 && time <=11 )
-                Console.WriteLine("Günaydın!");
+                Console.WriteLine("Günaydın :) ");
                 
             else if (time <= 18 )
                 Console.WriteLine("İyi Günler");
