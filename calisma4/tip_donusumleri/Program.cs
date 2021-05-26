@@ -86,7 +86,7 @@ yutları durumunu göz önünde bulundurmalıyız.
 
         public static void ParseMethod()
         {
-            string metin1 = "10";
+            string metin1 = "15";
             int rakam1 ;
             rakam1 = Int32.Parse(metin1);
             Console.WriteLine("Rakam1 : " + rakam1);
