@@ -44,7 +44,7 @@ Değişkenler konusunda bir de dönüştürme mevzusu vardır. Yani değişken d
 tanımlanmış ve depolanmış olan bir değeri string şekilde yazmamız gerektiğinde toString() metodunu kullanırız.
 */
              int number_int = 20 ;
-             string number_string = "21" ;
+             string number_string = "22" ;
              string newValue = number_int.ToString() + number_string;
              Console.WriteLine(newValue);
              //Output : 2021
