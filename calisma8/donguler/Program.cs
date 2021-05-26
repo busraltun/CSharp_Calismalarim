@@ -76,7 +76,7 @@ output olarak 4 haricindeki sayıları yani 1,2,3,5,6,7,8,9 sayılarını görm�
              }
 
              /* ****** foreach ***** */
-             Console.WriteLine(" **** foreach örnek ***** ");
+             Console.WriteLine(" ****** foreach örnek ****** ");
              string[] arabalar = {"BMW","FORD","TOYOTA","NISSAN"};
              foreach (var araba in arabalar)
              {
