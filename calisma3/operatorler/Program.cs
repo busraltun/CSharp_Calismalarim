@@ -27,7 +27,7 @@ namespace operatorler
             //Output : bu kod bloğu çalışır hata vermez fakat ekranda bir şey göstermez.
 
             if (isSuccess || isCompleted) //burada if bloğunun içerisi true || false = true olduğundan kod çalışır ve ekrana çıktı verir.
-                Console.WriteLine("Great!");
+                Console.WriteLine("waaww!");
             //Output : Great !
 
             if (isSuccess && !isCompleted)//burada if bloğunun içerisi true && true = true olur.Dolayısıyla kod çalışır ve ekrana çıktı verir.
