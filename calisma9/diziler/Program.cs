@@ -64,7 +64,7 @@ namespace diziler
 
             //CLEAR
 
-            Console.WriteLine("******* ARRAY CLEAR ********* ");
+            Console.WriteLine("*******//// ARRAY CLEAR ////********* ");
             Array.Clear(sayi_dizisi,2,2);
 //sayı dizisi elemanları kullanarak 2.index ten itibaren 2 tane elemanı 0'lar.
             foreach (var sayi in sayi_dizisi)
