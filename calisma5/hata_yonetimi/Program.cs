@@ -70,7 +70,7 @@ yakala diye bir ifade belirtmemiz lazım Exception sınıfından
             catch (OverflowException ex)
             {
                 
-                Console.WriteLine("Çok küçük veya çok büyük deger girdiniz.");
+                Console.WriteLine("Çok küçük veya çok büyük deger girdiniz...");
                 Console.WriteLine(ex);
 /*Output : Çok küçük veya çok büyük deger girdiniz. System.OverflowException: Value was either too large or too small for an Int32.
 at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type) at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
