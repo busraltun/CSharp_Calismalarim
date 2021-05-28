@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/calisma1/console_programlama/bin/Debug/net5.0/console_programlama.dll",
+            "program": "${workspaceFolder}/calisma_10/metot/bin/Debug/net5.0/metot.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/calisma1/console_programlama",
+            "cwd": "${workspaceFolder}/calisma_10/metot",
             "console": "externalTerminal",
             "stopAtEntry": false
         },
