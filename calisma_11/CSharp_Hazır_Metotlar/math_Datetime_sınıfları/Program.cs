@@ -18,10 +18,7 @@ namespace math_Datetime_sınıfları
             Console.WriteLine(DateTime.Now.DayOfWeek);
             Console.WriteLine(DateTime.Now.DayOfYear);
 
-            Console.WriteLine(DateTime.Now.ToLongDateString);
-            Console.WriteLine(DateTime.Now.ToShortDateString);
-            Console.WriteLine(DateTime.Now.ToLongTimeString);
-            Console.WriteLine(DateTime.Now.ToShortTimeString);
+
 
             Console.WriteLine(DateTime.Now.AddDays(2));   
             Console.WriteLine(DateTime.Now.AddHours(3));  
