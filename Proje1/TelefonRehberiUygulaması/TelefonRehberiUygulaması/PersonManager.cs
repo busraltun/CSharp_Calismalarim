@@ -16,7 +16,7 @@ namespace TelefonRehberUygulaması
                 PersonList.persons.Add(person);
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
             }
@@ -65,7 +65,7 @@ namespace TelefonRehberUygulaması
 
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception )
             {
                 return false;
             }
