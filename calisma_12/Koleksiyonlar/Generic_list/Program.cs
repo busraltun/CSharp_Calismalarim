@@ -54,7 +54,7 @@ namespace Generic_List
             Console.WriteLine("10 Liste içerisinde bulundu");
 
             //Eleman ile index e erişme
-            Console.Writeline (renkListesi.BinarySearch("kırmızı"));
+            Console.WriteLine (renkListesi.BinarySearch("kırmızı"));
 
             //Diziyi List e çevirme
             string[] hayvanlar = {"Kedi", "Köpek", "Kuş"};
@@ -72,12 +72,12 @@ namespace Generic_List
             kullancı1.Yas = 26;
 
             Kullanıcılar kullanıcı2 = new Kullanıcılar();
-            kullancı2.Isim = "Özcan";
-            kullancı2.Soyisim = "Çalışkan";
-            kullancı2.Yas = 26;
+            kullanıcı2.Isim = "Özcan";
+            kullanıcı2.Soyisim = "Çalışkan";
+            kullanıcı2.Yas = 26;
 
             kullanıcıListesi.Add(kullancı1);
-            kullanıcıListesi.Add(kullancı2);
+            kullanıcıListesi.Add(kullanıcı2);
 
             List<Kullanıcılar> yeniListe = new List<Kullanıcılar>();
 
