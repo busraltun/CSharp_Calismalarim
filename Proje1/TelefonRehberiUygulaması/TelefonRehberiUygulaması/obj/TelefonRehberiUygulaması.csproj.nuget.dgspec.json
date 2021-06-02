@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\Proje1.csproj": {}
+    "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\Proje1.csproj": {
+    "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\Proje1.csproj",
-        "projectName": "Proje1",
-        "projectPath": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\Proje1.csproj",
+        "projectUniqueName": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması.csproj",
+        "projectName": "TelefonRehberiUygulaması",
+        "projectPath": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması.csproj",
         "packagesPath": "C:\\Users\\ŞEMSİNİSA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\obj\\",
+        "outputPath": "C:\\Users\\Desktop\\csharp\\CSharp_Calismalarim\\Proje1\\TelefonRehberiUygulaması\\TelefonRehberiUygulaması\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
