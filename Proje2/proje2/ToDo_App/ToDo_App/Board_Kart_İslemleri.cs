@@ -17,9 +17,7 @@ namespace ToDo_App
          */
         public void KartEkle()
         {
-            Kart kart = new Kart();
-            Console.WriteLine("Başlık Giriniz :");
-            kart.Baslik = Console.ReadLine();
+
         }
 
 

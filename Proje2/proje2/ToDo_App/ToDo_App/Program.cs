@@ -17,32 +17,16 @@ namespace ToDo_App
                 Console.WriteLine("(4) Kart Taşımak \n");
 
                 int secim = int.Parse(Console.ReadLine());
-
-                if (secim == 1)
+                switch(secim)
                 {
-                    Console.WriteLine("Board listelendi \n");
-                }
-                   
-                else if (secim == 2)
-                {
-                    Console.WriteLine("Board a kart eklendi \n");
-
-                }
-                else if (secim == 3)
-                {
-                    Console.WriteLine("Board'dan kart silindi \n");
-
-                }
-                else if (secim == 4)
-                {
-                    Console.WriteLine("Kart taşındı \n");
-
-                }
-
-                else
-                {
-                    Console.WriteLine("Hatalı bir seçim yaptınız!!! \n");
-
+                    case 1:
+                        break;
+                    case 2:
+                        break;
+                    case 3:
+                        break;
+                    case 4:
+                        break;
                 }
                 // Console.ReadKey();
             }
