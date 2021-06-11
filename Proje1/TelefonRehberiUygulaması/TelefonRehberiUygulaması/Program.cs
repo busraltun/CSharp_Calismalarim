@@ -187,6 +187,8 @@ namespace TelefonRehberUygulaması
                     Console.WriteLine("-");
                 }
             }
+            
+            WriteStartScreen();
 
 
         }
